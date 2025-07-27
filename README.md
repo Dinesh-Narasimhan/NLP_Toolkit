@@ -6,7 +6,7 @@ NLP Toolkit is a simple, powerful web app built using **Streamlit** and **Transf
 - 😊 Analyze sentiment
 - 🏷️ Classify topics
 
-All modules are powered by pre-trained Hugging Face models and run on both local machines and **Streamlit Cloud**.
+All modules are powered by pre-trained Hugging Face models and run on local machines.
 
 ---
 
