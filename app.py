@@ -8,10 +8,10 @@ Original file is located at
 """
 
 import streamlit as st
-from nlp_models.translation import translate_text
-from nlp_models.sentiment import sentiment_analysis
-from nlp_models.classification import classify_text
-from nlp_models.summarization import summarize_text
+from translation import translate_text
+from sentiment import sentiment_analysis
+from classification import classify_text
+from summarization import summarize_text
 
 st.set_page_config(page_title="NLP Toolkit", layout="wide")
 st.title("🧠 NLP Toolkit")
